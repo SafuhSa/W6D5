@@ -7,7 +7,7 @@ const Root = function () {
       <div>
       < Clock />
     < Tabs /> 
-    </div>);
+    </div>); 
 };
 
 export default Root;
